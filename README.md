@@ -1,5 +1,8 @@
 <div align=center>
-  <h3> Hi there 👋, I'm Sohui Park.</h3>
+
+  ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=Welcome&height=150&fontSize=60&desc=sohui's%20GitHub%20Profile&descAlignY=75&descAlign=55)
+
+<div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parksohui&count_private=true)
 
