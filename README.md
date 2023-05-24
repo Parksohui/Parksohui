@@ -4,6 +4,11 @@
 
 <div align=center>
 
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=psh990525)](https://solved.ac/psh990525) <br/>
+<a href="https://melody-coding.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/><a/> 
+<a href="mailto:parksohui0525@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
+
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parksohui&count_private=true)
 
 
@@ -28,6 +33,6 @@
     <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   </div>
 <br/>
-📝 I regularly write articles on https://melody-coding.tistory.com/  <br/>
-📫 How to reach me: psh990525@naver.com
+
+
 
