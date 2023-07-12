@@ -14,9 +14,7 @@
 <a href="https://melody-coding.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/><a/> 
 <a href="mailto:parksohui0525@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
 
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parksohui&count_private=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parksohui&count_private=true&theme=buefy&show_icons=true)
 
   <h4> 🛠 Skills 🛠 </h4>
   <div > 
