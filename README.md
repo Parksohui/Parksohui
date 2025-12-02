@@ -2,11 +2,6 @@
 
   ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=Welcome&height=150&fontSize=60&desc=sohui's%20GitHub%20Profile&descAlignY=75&descAlign=55)
 
-<div align="right">
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParksohui&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
   
 <div align=center>
 
@@ -14,9 +9,8 @@
 <a href="https://melody-coding.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/><a/> 
 <a href="mailto:parksohui0525@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parksohui&count_private=true&theme=buefy&show_icons=true)
 
-  <h4> 🛠 Skills 🛠 </h4>
+  <h3> 🛠 Skills 🛠 </h3>
   <div > 
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
